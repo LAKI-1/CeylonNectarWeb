@@ -15,8 +15,8 @@ export const products: Product[] = [
       color: "Deep Amber"
     },
     images: [
-      "https://images.pexels.com/photos/6412527/pexels-photo-6412527.jpeg",
-      "https://images.pexels.com/photos/9246837/pexels-photo-9246837.jpeg"
+      "/images/Item1.jpg",
+      "/images/Item1.jpg"
     ],
     stock: 45,
     featured: true,
@@ -36,8 +36,8 @@ export const products: Product[] = [
       color: "Light Amber"
     },
     images: [
-      "https://images.pexels.com/photos/7657636/pexels-photo-7657636.jpeg",
-      "https://images.pexels.com/photos/5946305/pexels-photo-5946305.jpeg"
+      "/images/Item2.jpg",
+      "/images/Item2.jpg"
     ],
     stock: 28,
     featured: true
@@ -56,8 +56,8 @@ export const products: Product[] = [
       color: "Medium Amber"
     },
     images: [
-      "https://images.pexels.com/photos/12598001/pexels-photo-12598001.jpeg",
-      "https://images.pexels.com/photos/5946083/pexels-photo-5946083.jpeg"
+      "/images/Item3.jpg",
+      "/images/Item3.jpg"
     ],
     stock: 37,
     discount: 10
@@ -76,8 +76,8 @@ export const products: Product[] = [
       color: "Light Amber"
     },
     images: [
-      "https://images.pexels.com/photos/6412508/pexels-photo-6412508.jpeg",
-      "https://images.pexels.com/photos/8617843/pexels-photo-8617843.jpeg"
+      "/images/Item3.jpg",
+      "/images/Item3.jpg"
     ],
     stock: 32,
     bestSeller: true
@@ -96,8 +96,8 @@ export const products: Product[] = [
       color: "Dark Amber"
     },
     images: [
-      "https://images.pexels.com/photos/2487443/pexels-photo-2487443.jpeg",
-      "https://images.pexels.com/photos/7657798/pexels-photo-7657798.jpeg"
+      "/images/Item3.jpg",
+      "/images/Item3.jpg"
     ],
     stock: 15,
     featured: true
@@ -116,8 +116,8 @@ export const products: Product[] = [
       color: "Medium Amber"
     },
     images: [
-      "https://images.pexels.com/photos/7963572/pexels-photo-7963572.jpeg",
-      "https://images.pexels.com/photos/7790807/pexels-photo-7790807.jpeg"
+      "/images/Item2.jpg",
+      "/images/Item2.jpg"
     ],
     stock: 22,
     discount: 15

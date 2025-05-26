@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { CreditCard, Check, ChevronRight, Lock, Package } from 'lucide-react';
+import { CreditCard, Check, Lock, Package } from 'lucide-react';
 import Button from '../../components/common/Button';
 import { useCart } from '../../context/CartContext';
 import { useAuth } from '../../context/AuthContext';

@@ -7,21 +7,21 @@ const slides = [
     id: 1,
     title: "Pure Sri Lankan Honey",
     subtitle: "Directly from the highlands of Sri Lanka to your table",
-    image: "https://images.pexels.com/photos/6413701/pexels-photo-6413701.jpeg",
+    image: "/images/BG5.jpg",
     cta: "Explore Our Collection"
   },
   {
     id: 2,
     title: "Supporting Local Beekeepers",
     subtitle: "Fair partnerships with Sri Lankan beekeeping communities",
-    image: "https://images.pexels.com/photos/353076/pexels-photo-353076.jpeg",
+    image: "/images/BG3.jpg",
     cta: "Learn About Our Impact"
   },
   {
     id: 3,
     title: "Unprocessed. Unfiltered. Unparalleled.",
     subtitle: "Experience the authentic taste of nature's sweetest gift",
-    image: "https://images.pexels.com/photos/2487443/pexels-photo-2487443.jpeg",
+    image: "/images/BG4.jpg",
     cta: "Shop Premium Honey"
   }
 ];
